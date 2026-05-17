@@ -1,15 +1,35 @@
-.callout {
-	
+main {
+  max-width: 840px;
 }
 
-.callout img {
-	
+
+main img {
+  width: 150px;
+  height: auto;
 }
 
-blockquote {
-	
+
+aside {
+  width: 20rem;
+  margin: 1rem;
+  border: 1px solid rgb(0 0 0 / 0.2); /* Transparent subtle border effect */
+  padding: 1rem;
+  background-color: #eee;
+  color: #333;
+  text-align: center;
 }
 
-cite {
-	
+aside img {
+  width: 200px;
+  height: auto;
+}
+
+p {
+  padding: 0;
+}
+
+footer {
+  margin-top: 15px;
+  border-top: 1px solid #000;
+  text-align: center;
 }
